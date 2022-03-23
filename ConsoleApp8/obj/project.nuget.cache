@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ohdH8EFqzPkZTv3mFAABt+PW5bgRDiodLdJbmkHFa703HLVvBwzSz6HP5RCUM43uDZVIC6tqsyLPmHKRBn92SQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abire\\source\\repos\\ConsoleApp8\\ConsoleApp8\\BubbleSort.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abire\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

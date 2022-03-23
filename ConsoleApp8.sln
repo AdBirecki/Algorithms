@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "ConsoleApp8\BubbleSort.csproj", "{ABAAD687-DAE3-4F79-9C54-AFFAC07BAA6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort", "SelectionSort\SelectionSort.csproj", "{BC2CCD59-C5E1-4B67-8F44-B273C2B741C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABAAD687-DAE3-4F79-9C54-AFFAC07BAA6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABAAD687-DAE3-4F79-9C54-AFFAC07BAA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABAAD687-DAE3-4F79-9C54-AFFAC07BAA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABAAD687-DAE3-4F79-9C54-AFFAC07BAA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC2CCD59-C5E1-4B67-8F44-B273C2B741C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC2CCD59-C5E1-4B67-8F44-B273C2B741C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC2CCD59-C5E1-4B67-8F44-B273C2B741C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC2CCD59-C5E1-4B67-8F44-B273C2B741C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C63364E3-DA4B-417B-A2EB-F70FB5F2FE84}
+	EndGlobalSection
+EndGlobal

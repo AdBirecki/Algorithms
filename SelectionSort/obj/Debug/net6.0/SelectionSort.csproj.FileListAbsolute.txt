@@ -1,0 +1,5 @@
+C:\Users\abire\source\repos\ConsoleApp8\SelectionSort\obj\Debug\net6.0\SelectionSort.csproj.AssemblyReference.cache
+C:\Users\abire\source\repos\ConsoleApp8\SelectionSort\obj\Debug\net6.0\SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abire\source\repos\ConsoleApp8\SelectionSort\obj\Debug\net6.0\SelectionSort.AssemblyInfoInputs.cache
+C:\Users\abire\source\repos\ConsoleApp8\SelectionSort\obj\Debug\net6.0\SelectionSort.AssemblyInfo.cs
+C:\Users\abire\source\repos\ConsoleApp8\SelectionSort\obj\Debug\net6.0\SelectionSort.csproj.CoreCompileInputs.cache
